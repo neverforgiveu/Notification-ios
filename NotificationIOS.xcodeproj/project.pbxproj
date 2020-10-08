@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE1809DF252EAD16009242BE /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = FE1809DE252EAD16009242BE /* apple.png */; };
 		FE24FE26252DBB8000A73844 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE24FE25252DBB8000A73844 /* AppDelegate.swift */; };
 		FE24FE28252DBB8000A73844 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE24FE27252DBB8000A73844 /* SceneDelegate.swift */; };
 		FE24FE2A252DBB8000A73844 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE24FE29252DBB8000A73844 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FE1809DE252EAD16009242BE /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = apple.png; path = ../../../../Downloads/apple.png; sourceTree = "<group>"; };
 		FE24FE22252DBB8000A73844 /* NotificationIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotificationIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE24FE25252DBB8000A73844 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FE24FE27252DBB8000A73844 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		FE24FE24252DBB8000A73844 /* NotificationIOS */ = {
 			isa = PBXGroup;
 			children = (
+				FE1809DE252EAD16009242BE /* apple.png */,
 				FE24FE25252DBB8000A73844 /* AppDelegate.swift */,
 				FE24FE27252DBB8000A73844 /* SceneDelegate.swift */,
 				FE24FE29252DBB8000A73844 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				FE24FE32252DBB9400A73844 /* LaunchScreen.storyboard in Resources */,
 				FE24FE2F252DBB9400A73844 /* Assets.xcassets in Resources */,
+				FE1809DF252EAD16009242BE /* apple.png in Resources */,
 				FE24FE2D252DBB8000A73844 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
